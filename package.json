@@ -1,0 +1,12 @@
+{
+  "name": "mspc-voice-ai-brain",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "dependencies": {
+    "openai": "^4.58.1",
+    "twilio": "^4.23.0",
+    "ws": "^8.17.0"
+  }
+}
